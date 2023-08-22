@@ -12,9 +12,6 @@ function App() {
       <h2> This is second heading</h2>
      <p>you are the best</p>
      <Footer/>
-     <Footer/>
-     <Footer/>
-
     </div>
   );
 }
