@@ -1,5 +1,5 @@
 
-import Header from './compunents/Header';
+import {Header} from './compunents/Header';
 
 
 function App() {
