@@ -1,6 +1,7 @@
+import "./header.css"
 function Header() {
     return <div>
-        <p>Header</p>
+        <p className="bgcolor">Header</p>
     </div>
 }
 export function Header1() {
