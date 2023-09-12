@@ -12,7 +12,6 @@ function App() {
     <Header/>
       <Header1/>
       <h1>this is a first heading</h1>
-      
      <p>you are the best</p>
      
      <Footer/>
