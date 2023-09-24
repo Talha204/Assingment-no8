@@ -9,9 +9,9 @@ function App() {
   return(
 
     <div>
-    <Header/>
+    {/* <Header/> */}
       <Header1/>
-     <p>you are the best</p>
+     
      
      <Footer/>
     </div>
